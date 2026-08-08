@@ -1,3 +1,5 @@
 01/
 hola-mundo/
 *.mp4
+
+!main/
