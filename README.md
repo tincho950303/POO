@@ -1,4 +1,4 @@
-Markdown
+
 # Programación Orientada a Objetos (POO)
 
 Bienvenido a mi repositorio de aprendizaje sobre **Programación Orientada a Objetos**. Este espacio está destinado a documentar mi proceso de estudio, conceptos teóricos, ejercicios prácticos y proyectos para dominar el paradigma de la POO.
